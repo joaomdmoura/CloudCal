@@ -1,0 +1,12 @@
+{
+  "name": "CloudCal",
+  "version": "0.1.0",
+  "main": "main.js",
+  "dependencies": {
+    "electron-json-storage": "^2.0.0",
+    "google-auth-library": "^0.9.8",
+    "googleapis": "^7.1.0",
+    "handlebars": "^4.0.5",
+    "handlebars-layouts": "^3.1.3"
+  }
+}
